@@ -5,7 +5,7 @@
 3. [Tweet first Medium feed item's title](tweetMediumFeed)
 4. [Hello Wold Service](helloWorldService)
 5. [Echo Service](echoService)
-6. [Passthrough Service](passthroughService)
+6. [Passthrough Service](passthrough_service)
 7. [Content/Header Based Routing Service](routingServices)
 8. [RESTful Service](restfulService)
 9. [Service Chaining](serviceChaining)
